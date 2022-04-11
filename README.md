@@ -19,3 +19,11 @@ To launch the SPA:
 ```bash
 $ ./src/spa-server/serve
 ```
+
+## Dependencies
+
+The following packages are needed to launch the MJPEG server successfully (assuming _Fedora_):
+
+- [_netcat_](https://en.wikipedia.org/wiki/Netcat)
+- [_gstreamer1_](https://gstreamer.freedesktop.org)
+- [_gstreamer1-plugins-good_](https://gstreamer.freedesktop.org)
