@@ -11,13 +11,13 @@ Have fun!
 To launch the MJPEG server:
 
 ```bash
-$ ./src/mjpeg-server/serve
+$ ./src/mjpeg-server/serve.sh
 ```
 
 To launch the SPA:
 
 ```bash
-$ ./src/spa-server/serve
+$ ./src/spa-server/serve.sh
 ```
 
 ## Dependencies
