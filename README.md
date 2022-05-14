@@ -1,4 +1,4 @@
-# Steaming video via Motion JPEG and counting established TCP sockets
+# Streaming video via Motion JPEG and counting established TCP sockets
 
 This is the playground for a [blog post](https://blog.whilenot.dev/posts/cool-bugs-vs-shitty-bugs-part-1/). It consists of a simple MJPEG stream video server and an SPA.
 
